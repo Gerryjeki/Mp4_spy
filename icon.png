@@ -1,0 +1,20 @@
+--2025-07-20 06:15:22--  https://share.google/ItzJD6aMx1DdLCt3C
+Resolving share.google (share.google)... 216.239.32.27, 2001:4860:4802:32::1b
+Connecting to share.google (share.google)|216.239.32.27|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.google.com/share.google?q=ItzJD6aMx1DdLCt3C [following]
+--2025-07-20 06:15:22--  https://www.google.com/share.google?q=ItzJD6aMx1DdLCt3C
+Resolving www.google.com (www.google.com)... 216.239.38.120, 2404:6800:4003:c11::69, 2404:6800:4003:c11::63, ...
+Connecting to www.google.com (www.google.com)|216.239.38.120|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F10490%2F10490244.png&tbnid=_9zUtj9QjNKZ6M&vet=1&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2F3d-music_10490244&docid=DRpBJOimjAcpnM&w=512&h=512&source=sh%2Fx%2Fim%2Fm1%2F2&kgs=9278412906686716&shem=sdl1p [following]
+--2025-07-20 06:15:22--  https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F10490%2F10490244.png&tbnid=_9zUtj9QjNKZ6M&vet=1&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2F3d-music_10490244&docid=DRpBJOimjAcpnM&w=512&h=512&source=sh%2Fx%2Fim%2Fm1%2F2&kgs=9278412906686716&shem=sdl1p
+Reusing existing connection to www.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘ItzJD6aMx1DdLCt3C’
+
+     0K .......... .......... .......... .                     1.22M=0.02s
+
+2025-07-20 06:15:22 (1.22 MB/s) - ‘ItzJD6aMx1DdLCt3C’ saved [31968]
+
